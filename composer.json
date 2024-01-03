@@ -1,0 +1,15 @@
+{
+    "name": "alhassan/admin-dashboard-main",
+    "autoload": {
+        "psr-4": {
+            "Alhassan\\AdminDashboardMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alhassan20",
+            "email": "33437695+Alhassan20@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
